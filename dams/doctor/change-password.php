@@ -75,7 +75,8 @@ return true;
 </head>
   
 <body class="menubar-left menubar-unfold menubar-light theme-primary">
-<!--============= start main area -->
+<!--============= start main area menubar for dashboard -->
+  
 
 <?php include_once('includes/header.php');?>
 
@@ -160,4 +161,5 @@ return true;
   <script src="assets/js/fullcalendar.js"></script>
 </body>
 </html>
+
 <?php }  ?>
